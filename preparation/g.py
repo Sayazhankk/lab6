@@ -1,0 +1,3 @@
+def sumlist(n):
+    list=[]
+    
